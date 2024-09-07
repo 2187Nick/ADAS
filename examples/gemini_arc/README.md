@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./../misc/art_fig.png" width="200" /></a><br>
+  <img src="../../misc/art_fig.png" width="200" /></a><br>
   <b>Automated Design of Agentic Systems</b><br>
 </h1>
 
@@ -7,7 +7,7 @@
 
 ```Puzzles now display in terminal during evaluation```
 <h1 align="left">
-  <img src="gemini_arc/misc/terminal_logs2.png" width="600" /></a><br>
+  <img src="misc/terminal_logs2.png" width="600" /></a><br>
 </h1>
 
 
@@ -19,7 +19,7 @@
 
 
 <p align="left">
-<img src="gemini_arc/misc/gemini_key.png"  width="600"/></a><br>
+<img src="misc/gemini_key.png"  width="600"/></a><br>
 </p>
 
 ### API Free Usage
@@ -38,11 +38,6 @@ https://aistudio.google.com/app/plan_information
 
 ## Setup
 ```bash
-# Install additional libraries
-pip install google-generativeai colorama python-dotenv
-
-or 
-
 # From the ADAS/examples directory run
 pip install -r requirements.txt
 
